@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="XamarinAndroidMp4ParserTest\XamarinAndroidMp4ParserDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.YT910HX7SE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAndroidMp4ParserTest\Resources\values\Strings.xml">
+    <Files>
+      <File FileName="XamarinAndroidMp4ParserTest\MainActivity.cs" Line="42" Column="89" />
+      <File FileName="XamarinAndroidMp4ParserTest\Properties\AssemblyInfo.cs" Line="13" Column="32" />
+      <File FileName="XamarinAndroidMp4ParserTest\Resources\values\Strings.xml" Line="4" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\leon.pelletier.APCURIUM\Documents\Projects\ffmpeg\ffmpeg\MainActivity.cs" line="62" column="1" />
+      <Breakpoint file="C:\Users\leon.pelletier.APCURIUM\Documents\Projects\ffmpeg\MediaCodec\GlVideoView.cs" line="317" column="35" />
+      <Breakpoint file="C:\Users\leon.pelletier.APCURIUM\Documents\Projects\ffmpeg\MediaCodec\GlVideoView.cs" line="555" column="43" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>XamarinAndroidFFmpegLibs\XamarinAndroidFFmpegLibs.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.XamarinAndroidMp4ParserDemo AndroidDesignerPreferredDevice="Nexus 4" AndroidDeviceId-Debug="YT910HX7SE" />
+</Properties>

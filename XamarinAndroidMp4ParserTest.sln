@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAndroidMp4ParserDemo", "XamarinAndroidMp4ParserTest\XamarinAndroidMp4ParserDemo.csproj", "{87A5E21C-8AAF-4744-AA7A-92F87DB1684B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinAndroidMp4Parser", "Mp4Parser\XamarinAndroidMp4Parser.csproj", "{982E64AF-2B98-4F14-AEF8-BE1364F298BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A5E21C-8AAF-4744-AA7A-92F87DB1684B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A5E21C-8AAF-4744-AA7A-92F87DB1684B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A5E21C-8AAF-4744-AA7A-92F87DB1684B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A5E21C-8AAF-4744-AA7A-92F87DB1684B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{982E64AF-2B98-4F14-AEF8-BE1364F298BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{982E64AF-2B98-4F14-AEF8-BE1364F298BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{982E64AF-2B98-4F14-AEF8-BE1364F298BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{982E64AF-2B98-4F14-AEF8-BE1364F298BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
