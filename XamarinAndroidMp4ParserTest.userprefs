@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="XamarinAndroidMp4ParserTest\XamarinAndroidMp4ParserDemo.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.YT910HX7SE" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAndroidMp4ParserTest\Resources\values\Strings.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAndroidMp4ParserTest\MainActivity.cs">
     <Files>
-      <File FileName="XamarinAndroidMp4ParserTest\MainActivity.cs" Line="42" Column="89" />
-      <File FileName="XamarinAndroidMp4ParserTest\Properties\AssemblyInfo.cs" Line="13" Column="32" />
-      <File FileName="XamarinAndroidMp4ParserTest\Resources\values\Strings.xml" Line="4" Column="51" />
+      <File FileName="XamarinAndroidMp4ParserTest\MainActivity.cs" Line="114" Column="3" />
+      <File FileName="XamarinAndroidMp4ParserTest\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="XamarinAndroidMp4ParserTest\Resources\values\Strings.xml" Line="4" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
